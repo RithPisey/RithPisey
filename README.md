@@ -4,7 +4,7 @@
 - 🌱 I’m currently a University Student in Bachelor of Computer Technology.
 - 📫 How to reach me 
      + 📞 phone: 0967707276;
-     + 📧email: hengrithpisey@gmail.com
+     + 📧 email: hengrithpisey@gmail.com
 
 
 
