@@ -8,9 +8,13 @@
 
 
 
+
+
+
+
 ##############################################
 
-- 💻 all learning project:
+- 💻 All My Learning:
      + Amazone clone: https://clone-aab9d.web.app
      + Instagram clone: https://insta-clone-liart.vercel.app
      + Tinder clone: https://tinder-frontend-6dfcd.web.app
